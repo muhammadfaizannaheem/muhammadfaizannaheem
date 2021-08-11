@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Flutter Web Application Dveelopment
 - 💞️ I’m looking to collaborate on Flutter Application Development
 - 📫 How to reach me feel free to contact me : muhammadfaizannaheem@gmail.com
+- I am also learning Angular Now. You can check angular work done by me on repositries
 
 <!---
 muhammadfaizannaheem/muhammadfaizannaheem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
